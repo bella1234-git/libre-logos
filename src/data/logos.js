@@ -33,6 +33,11 @@ import thirtytwo from "../images/logos/32-line-gazelle.png"
 import thirtythree from "../images/logos/33-game-robot.png"
 import thirtyfour from "../images/logos/34-side-hexagon-tech.png"
 import thirtyfive from "../images/logos/35-geometric-pineapple.png"
+import thirtysix from "../images/logos/36-Logo1.png"
+import thirtyseven from "../images/logos/37-Logo2.png"
+import thirtyeight from "../images/logos/38-Logo3.png"
+
+
 
 export const Logos = [
   {
